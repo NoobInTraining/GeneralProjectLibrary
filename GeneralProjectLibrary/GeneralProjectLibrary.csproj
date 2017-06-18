@@ -40,6 +40,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EnumFunctions.cs" />
+    <Compile Include="FileFunctions.cs" />
+    <Compile Include="InternetFunctions.cs" />
+    <Compile Include="Logs\ErrorLog.cs" />
+    <Compile Include="Logs\Log.cs" />
+    <Compile Include="Logs\ServerLog.cs" />
     <Compile Include="MathFunctions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
